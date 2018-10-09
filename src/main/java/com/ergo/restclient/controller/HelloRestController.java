@@ -1,4 +1,4 @@
-package com.edelivery.restclient.controller;
+package com.ergo.restclient.controller;
 
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
