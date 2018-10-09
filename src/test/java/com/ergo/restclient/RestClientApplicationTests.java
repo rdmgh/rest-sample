@@ -1,4 +1,4 @@
-package com.edelivery.restclient;
+package com.ergo.restclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
